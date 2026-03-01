@@ -1,5 +1,5 @@
 # Sales Performance Dashboard
-![Sales Dashboard](sales dashboard.png)
+![Sales Dashboard](./sales%20dashboard.png)
 Interactive dashboard analyzing sales performance, revenue growth, and monthly trends.
 
 ## Tools Used
